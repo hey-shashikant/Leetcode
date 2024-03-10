@@ -24,7 +24,9 @@
 | Ransom Note                  | [Link](https://leetcode.com/problems/ransom-note/description/)                               |   
 | Climbing Stairs              | [Link](https://leetcode.com/problems/climbing-stairs/)                                       |
 |  Longest Palindrome          | [Link](https://leetcode.com/problems/longest-palindrome/description/)                        |
-
+| Reverse Linked List          | [Link](https://leetcode.com/problems/reverse-linked-list/description/)                       |
+| Majority Element             | [Link](https://leetcode.com/problems/majority-element/description/)                          |
+| Add Binary                   |  [Link](https://leetcode.com/problems/add-binary/description/)                               |
 
 
 
