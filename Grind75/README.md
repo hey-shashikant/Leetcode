@@ -1,6 +1,6 @@
 **Link to [GRIND75](https://www.techinterviewhandbook.org/grind75)**
 
-
+**WEEK 1**
 | Problem Name           | Problem Link                                                                                       |
 |------------------------|----------------------------------------------------------------------------------------------------|
 | Two Sum                | [Link](https://leetcode.com/problems/two-sum/)                                                     |
@@ -16,6 +16,15 @@
 | Balanced Binary Tree| [Link](https://leetcode.com/problems/balanced-binary-tree/)         |
 | Linked List Cycle| [Link](https://leetcode.com/problems/linked-list-cycle/)         |
 |Implement Queue using Stacks| [Link](https://leetcode.com/problems/implement-queue-using-stacks/)         |
+
+**WEEK 2**
+| Problem Name           | Problem Link                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------|
+| First Bad Version                | [Link](https://leetcode.com/problems/first-bad-version/description/)                     |
+| Ransom Note                  | [Link](https://leetcode.com/problems/ransom-note/description/)                               |   
+| Climbing Stairs              | [Link](https://leetcode.com/problems/climbing-stairs/)                                       |
+|  Longest Palindrome          | [Link](https://leetcode.com/problems/longest-palindrome/description/)                        |
+
 
 
 
