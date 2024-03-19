@@ -27,6 +27,6 @@
 | Reverse Linked List          | [Link](https://leetcode.com/problems/reverse-linked-list/description/)                       |
 | Majority Element             | [Link](https://leetcode.com/problems/majority-element/description/)                          |
 | Add Binary                   |  [Link](https://leetcode.com/problems/add-binary/description/)                               |
-
+| Middle of the Linked List    |  [Link](https://leetcode.com/problems/middle-of-the-linked-list/)                            |
 
 
