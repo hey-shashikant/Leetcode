@@ -28,5 +28,9 @@
 | Majority Element             | [Link](https://leetcode.com/problems/majority-element/description/)                          |
 | Add Binary                   |  [Link](https://leetcode.com/problems/add-binary/description/)                               |
 | Middle of the Linked List    |  [Link](https://leetcode.com/problems/middle-of-the-linked-list/)                            |
+| Contains Duplicate    |  [Link](https://leetcode.com/problems/contains-duplicate/description/)                              |
+| Maximum Depth of Binary Tree   |  [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)           |
+| Diameter of Binary Tree        |[Link](https://leetcode.com/problems/diameter-of-binary-tree/description/)                  |
+| Maximum Subarray               | [Link](https://leetcode.com/problems/maximum-subarray/description/)                        |
 
 
