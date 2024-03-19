@@ -38,3 +38,5 @@
 |------------------------|----------------------------------------------------------------------------------------------------|
 | Three Sum                | [Link](https://leetcode.com/problems/3sum/description/)                                          |
 | Binary Tree Level Order Travsersal | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)   |
+| Longest Substring Without Repeating Characters| [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
+| Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|
