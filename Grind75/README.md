@@ -33,4 +33,7 @@
 | Diameter of Binary Tree        |[Link](https://leetcode.com/problems/diameter-of-binary-tree/description/)                  |
 | Maximum Subarray               | [Link](https://leetcode.com/problems/maximum-subarray/description/)                        |
 
-
+**WEEK 3**
+| Problem Name           | Problem Link                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------|
+| Three Sum                | [Link](https://leetcode.com/problems/3sum/description/)                                          |
