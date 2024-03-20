@@ -40,3 +40,5 @@
 | Binary Tree Level Order Travsersal | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)   |
 | Longest Substring Without Repeating Characters| [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
 | Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|
+| Insert Interval | [Link](https://leetcode.com/problems/insert-interval/description/)|
+| K Closest Points to Origin | [Link](https://leetcode.com/problems/k-closest-points-to-origin/description/) |
