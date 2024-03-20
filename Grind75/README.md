@@ -39,8 +39,13 @@
 | Three Sum                | [Link](https://leetcode.com/problems/3sum/description/)                                          |
 | Binary Tree Level Order Travsersal | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)   |
 | Longest Substring Without Repeating Characters| [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)|
-| Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)|
-| Insert Interval | [Link](https://leetcode.com/problems/insert-interval/description/)|
-| K Closest Points to Origin | [Link](https://leetcode.com/problems/k-closest-points-to-origin/description/) |
-| 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/) |
-| Clone Graph | [Link](https://leetcode.com/problems/clone-graph/)|
+| Evaluate Reverse Polish Notation | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)       |
+| Insert Interval | [Link](https://leetcode.com/problems/insert-interval/description/)                                         |
+| K Closest Points to Origin | [Link](https://leetcode.com/problems/k-closest-points-to-origin/description/)                   |
+| 01 Matrix | [Link](https://leetcode.com/problems/01-matrix/description/)                                                     |
+| Clone Graph | [Link](https://leetcode.com/problems/clone-graph/)                                                             |
+
+**WEEK 4**
+| Problem Name           | Problem Link                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------|
+| Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/)                                        |
