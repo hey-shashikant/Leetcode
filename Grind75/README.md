@@ -49,3 +49,4 @@
 | Problem Name           | Problem Link                                                                                       |
 |------------------------|----------------------------------------------------------------------------------------------------|
 | Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/)                                        |
+| Rotten Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/)                                         |
