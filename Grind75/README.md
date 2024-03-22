@@ -50,3 +50,4 @@
 |------------------------|----------------------------------------------------------------------------------------------------|
 | Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/)                                        |
 | Rotten Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/)                                         |
+| Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/description/)                                    |
