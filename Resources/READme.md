@@ -1,0 +1,1 @@
+1. For some BST concepts :- [LINK](https://leetcode.com/problems/validate-binary-search-tree/solutions/32112/learn-one-iterative-inorder-traversal-apply-it-to-multiple-tree-questions-java-solution/)

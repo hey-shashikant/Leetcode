@@ -51,3 +51,6 @@
 | Course Schedule | [Link](https://leetcode.com/problems/course-schedule/description/)                                        |
 | Rotten Oranges | [Link](https://leetcode.com/problems/rotting-oranges/description/)                                         |
 | Number of Islands | [Link](https://leetcode.com/problems/number-of-islands/description/)                                    |
+| Validate Binary Search Tree | [Link](https://leetcode.com/problems/validate-binary-search-tree/description/)                |
+| Product of Array Except Self | [Link](https://leetcode.com/problems/product-of-array-except-self/description/)              |
+| Min Stack                 | [Link](https://leetcode.com/problems/min-stack/description/)                                    |
