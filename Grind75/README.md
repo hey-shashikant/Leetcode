@@ -54,3 +54,16 @@
 | Validate Binary Search Tree | [Link](https://leetcode.com/problems/validate-binary-search-tree/description/)                |
 | Product of Array Except Self | [Link](https://leetcode.com/problems/product-of-array-except-self/description/)              |
 | Min Stack                 | [Link](https://leetcode.com/problems/min-stack/description/)                                    |
+| Coin Change                 | [Link](https://leetcode.com/problems/coin-change/description/)                                |
+
+
+**WEEK 5**
+| Problem Name           | Problem Link                                                                                       |
+|------------------------|----------------------------------------------------------------------------------------------------|
+| Search in Rotated Sorted Array | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)          |
+| Sort Colors            | [Link](https://leetcode.com/problems/sort-colors/description/)                                     |
+| Lowest Common Ancestor of a Binary Tree | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) |
+| Merge Intervals        | [Link](https://leetcode.com/problems/merge-intervals/description/)                                 |
+
+
+
