@@ -66,6 +66,9 @@
 | Merge Intervals        | [Link](https://leetcode.com/problems/merge-intervals/description/)                                 |
 | Accounts Merge | [Link](https://leetcode.com/problems/accounts-merge/description/)                                          |
 | Combination Sum | [Link](https://leetcode.com/problems/combination-sum/description/)                                        |
+| Permutations | [Link](https://leetcode.com/problems/permutations/description/)                                              |
+| Time Based Key-Value Store | [Link](https://leetcode.com/problems/time-based-key-value-store/description/)                  |
+
 
 
 
