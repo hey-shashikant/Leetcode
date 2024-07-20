@@ -7,6 +7,7 @@ This git repo consists of all the Problem of the Day(POTD) solutions + it includ
 | ------- |
 | [0055-jump-game](https://github.com/hey-shashikant/Leetcode/tree/master/0055-jump-game) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hey-shashikant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hey-shashikant/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,6 +16,7 @@ This git repo consists of all the Problem of the Day(POTD) solutions + it includ
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hey-shashikant/Leetcode/tree/master/0055-jump-game) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hey-shashikant/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +25,8 @@ This git repo consists of all the Problem of the Day(POTD) solutions + it includ
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hey-shashikant/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Matrix
+|  |
+| ------- |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/hey-shashikant/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->
